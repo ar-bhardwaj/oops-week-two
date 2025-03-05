@@ -8,7 +8,7 @@ class BankAccount {
 
     // Constructor
     public BankAccount(String accountNumber, String accountHolder, double balance) {
-        this.accountNumber = accountNumber;
+        this.accountNumber = accountNumber; 
         this.accountHolder = accountHolder;
         this.balance = balance;
     }
